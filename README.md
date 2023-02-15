@@ -3,7 +3,7 @@ HTTP headers as golang constants
 
 ## Install
 
-`go get -u github.com/sfpprxy/http-headers`
+`go get -u github.com/patsnapops/http-headers`
 
 ## Example
 
@@ -12,7 +12,7 @@ package middleware
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/sfpprxy/http-headers"
+	"github.com/patsnapops/http-headers"
 	"net/http"
 	"time"
 )
